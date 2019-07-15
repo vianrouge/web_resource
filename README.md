@@ -8,7 +8,7 @@
 
 [图像效果处理 canvas-plus](https://github.com/jhuckaby/canvas-plus.git)
 
-[fabric.js，基于canvas的交互式编辑、滤镜、裁剪、svg与canvas互转等](https://github.com/fabricjsfabric.js.git)
+[fabric.js，基于canvas的交互式编辑、滤镜、裁剪、svg与canvas互转等](https://github.com/fabricjs/fabric.js.git)
 
 [svg.js，基于svg的交互式动画、绘制等](https://github.com/svgdotjs/svg.js.git)
 
